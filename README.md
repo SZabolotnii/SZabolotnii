@@ -1,6 +1,9 @@
-- 👋 Hi, I’m @SZabolotnii
-- 👀 I’m interested in Data Science (AI/NLP/Statistics etc.)
-- 🌱 I’m currently learning Python.
+- 👋 Hi, I’m Serhii Zabolotnii
+- Data Analyst 🤖 Researcher 📚 Educator 👨‍💻 Mathematician ∑
+- ✨ Passionate about personal growth and continuous learning, I leverage my academic and research background to solve intricate analytical problems
+- 📫 A highly qualified specialist in statistical data and signal processing.
+- ⚡ Currently focusing on Natural Language Processing: Large language Models and generative AI.
+- 
 
 <!---
 - 💞️ I’m looking to collaborate on ...
