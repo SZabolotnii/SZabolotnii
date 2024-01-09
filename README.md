@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @SZabolotnii
 - 👀 I’m interested in Data Science (AI/NLP/Statistics etc.)
-- 🌱 I’m currently learning Python
-.
+- 🌱 I’m currently learning Python.
 
 <!---
 - 💞️ I’m looking to collaborate on ...
